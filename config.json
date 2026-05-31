@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessiondecrypt",
+        "uuid": 2189600,
+        "checksum": "4z88lg"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
